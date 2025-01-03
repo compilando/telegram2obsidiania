@@ -10,8 +10,7 @@ To address this, I created a script, supported by **Large Language Models (LLMs)
 - Integrate this content into an **Obsidian Vault**.
 - Leverage the power of LLMs to expand and enrich the base content.
 
-### **Why is this project innovative?**
-This project integrates:
+### **This project integrates**
 1. **Hierarchical Organization**: Parent, sibling, and child topics structured intuitively.
 2. **Semantic Linking**: Cross-referencing topics using Obsidian's [[WikiLinks]].
 3. **Enriched Markdown Content**: Rich, contextual content with additional resources to deepen understanding.
@@ -53,8 +52,8 @@ If you're interested, please feel free to open an issue, submit a pull request, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/knowledge-organization.git
-   cd knowledge-organization
+   git clone https://github.com/compilando/telegram2obsidiania
+   cd telegram2obsidiania
 
 
 Install dependencies:
