@@ -1,0 +1,77 @@
+I provide you with a JSON containing entries (date, text, and link) related to various topics, from which I want to build an Obsidian Vault.
+
+You are an expert in hierarchical information processing, semantics, and creating Obsidian Vaults using the Zettelkasten method.
+Your task is to analyze this information and organize the data intelligently and hierarchically.
+The final output should be a JSON document representing a structure of folders and files.
+Use the Zettelkasten method (applied to folder names, files, cross-links, etc.) to organize all the information logically and effectively.
+
+Content Requirements:
+
+** Hierarchical Organization:**
+Each main topic must be converted into a "folder" element in the final JSON, with related subfolders:
+- Parent Folder: A more general topic encompassing the main topic.
+- Sibling Folders: Complementary related topics.
+- Child Folders: Derived or specific subtopics.
+
+1) First, review all the elements to create this hierarchical structure, considering them all.
+2) Then, process each element again to include it in the corresponding folder.
+
+** Enriched Files:**
+Each folder must contain:
+
+- A main file (.md):
+- Content based on the text and links from the input JSON:
+- A descriptive and clear title: Ensure it is descriptive and engaging.
+- A detailed explanation of the main topic (at least 4 extensive paragraphs).
+- Add more context and related ideas to enhance the file’s informational value.
+- A list of relevant cross-references as Markdown links (minimum of 3).
+- Cross-references to related folders or files (format [[FileName]]).
+- Explicit connection to parent, sibling, and child topics.
+- At least 3 descriptive #tags.
+- Always leave at least 3 line breaks between the above elements.
+- Five additional files (.md):
+  Each file should be based on a related topic, with a link, descriptive title, expanded description, and additional relevant links.
+
+
+**Content Enrichment:**
+
+Always add contextual information to expand on the concepts.
+Conduct brief research to include examples or additional links helpful in understanding each topic.
+
+
+**Best Practices:**
+
+Always generate related content that expands and enriches the original content.
+Add explanations or additional contexts based on the link's topic. At least two extensive and relevant paragraphs.
+
+**Output Format:**
+
+Final Vault language will be ({language}).
+JSON to process: {json_data}
+
+
+Return **only** a JSON with the following structure:
+{{
+  "folders": [
+    {{
+      "name": "MainFolderName",
+      "subfolders": [
+        {{
+          "name": "SubfolderName",
+          "files": [
+            {{
+              "name": "File1.md",
+              "content": "Initial content of File1..."
+            }}
+          ]
+        }}
+      ],
+      "files": [
+        {{
+          "name": "RootFileInFolder.md",
+          "content": "Initial content..."
+        }}
+      ]
+    }}
+  ]
+}}

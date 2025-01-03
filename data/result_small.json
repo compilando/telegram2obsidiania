@@ -1,0 +1,434 @@
+{
+    "type": "saved_messages",
+    "id": 743932742,
+    "messages": [
+        {
+            "id": 264,
+            "type": "message",
+            "date": "2019-05-21T13:59:57",
+            "date_unixtime": "1558439997",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Adam Sitnik – .NET Performance and Reliability\n",
+                {
+                    "type": "link",
+                    "text": "https://adamsitnik.com/"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Adam Sitnik – .NET Performance and Reliability\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://adamsitnik.com/"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": 382,
+            "type": "message",
+            "date": "2019-06-02T20:51:50",
+            "date_unixtime": "1559501510",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Conway's Law Is Real | Goodroot\n",
+                {
+                    "type": "link",
+                    "text": "https://goodroot.ca/post/2018/10/13/practicality-metaphysics-conways-law/"
+                }
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Conway's Law Is Real | Goodroot\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://goodroot.ca/post/2018/10/13/practicality-metaphysics-conways-law/"
+                }
+            ]
+        },
+        {
+            "id": 518,
+            "type": "message",
+            "date": "2019-07-21T00:07:22",
+            "date_unixtime": "1563660442",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Una manifiesto para diseñadores acerca de la «dieta tecnológica» que el mundo necesita\n",
+                {
+                    "type": "link",
+                    "text": "https://www.microsiervos.com/archivo/arte-y-diseno/manifiesto-disenadores-dieta-tecnologica-mundo.html"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Una manifiesto para diseñadores acerca de la «dieta tecnológica» que el mundo necesita\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://www.microsiervos.com/archivo/arte-y-diseno/manifiesto-disenadores-dieta-tecnologica-mundo.html"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": 590,
+            "type": "message",
+            "date": "2019-08-03T09:32:24",
+            "date_unixtime": "1564817544",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "cortex/",
+                {
+                    "type": "link",
+                    "text": "README.md"
+                },
+                " at master · cortexlabs/cortex · GitHub\n",
+                {
+                    "type": "link",
+                    "text": "https://github.com/cortexlabs/cortex/blob/master/README.md"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "cortex/"
+                },
+                {
+                    "type": "link",
+                    "text": "README.md"
+                },
+                {
+                    "type": "plain",
+                    "text": " at master · cortexlabs/cortex · GitHub\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://github.com/cortexlabs/cortex/blob/master/README.md"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": 593,
+            "type": "message",
+            "date": "2019-08-06T22:50:26",
+            "date_unixtime": "1565124626",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "How We Reduced Lambda Functions Costs by Thousands of Dollars\n",
+                {
+                    "type": "link",
+                    "text": "https://medium.com/foxintelligence-inside/how-we-reduced-lambda-functions-costs-by-thousands-of-dollars-8279b0a69931"
+                }
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "How We Reduced Lambda Functions Costs by Thousands of Dollars\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://medium.com/foxintelligence-inside/how-we-reduced-lambda-functions-costs-by-thousands-of-dollars-8279b0a69931"
+                }
+            ]
+        },
+        {
+            "id": 594,
+            "type": "message",
+            "date": "2019-08-11T21:32:38",
+            "date_unixtime": "1565551958",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Paged Out! issue #1 is out! It's a free e-zine about broadly understood security/hacking/programming. One-page articles.\n",
+                {
+                    "type": "link",
+                    "text": "https://pagedout.institute/?page=issues.php"
+                }
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Paged Out! issue #1 is out! It's a free e-zine about broadly understood security/hacking/programming. One-page articles.\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://pagedout.institute/?page=issues.php"
+                }
+            ]
+        },
+        {
+            "id": 656,
+            "type": "message",
+            "date": "2019-08-25T21:37:38",
+            "date_unixtime": "1566761858",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Introduction :: Amazon EKS Workshop\n",
+                {
+                    "type": "link",
+                    "text": "https://eksworkshop.com/introduction/"
+                }
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Introduction :: Amazon EKS Workshop\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://eksworkshop.com/introduction/"
+                }
+            ]
+        },
+        {
+            "id": 657,
+            "type": "message",
+            "date": "2019-08-26T19:55:16",
+            "date_unixtime": "1566842116",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Learn Multiplatform Z80 Assembly Programming... With Vampires!\n",
+                {
+                    "type": "link",
+                    "text": "https://www.chibiakumas.com/z80/"
+                }
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Learn Multiplatform Z80 Assembly Programming... With Vampires!\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://www.chibiakumas.com/z80/"
+                }
+            ]
+        },
+        {
+            "id": 658,
+            "type": "message",
+            "date": "2019-08-31T08:47:08",
+            "date_unixtime": "1567234028",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "GitHub - wtfutil/wtf: The personal information dashboard for your terminal.\n",
+                {
+                    "type": "link",
+                    "text": "https://github.com/wtfutil/wtf"
+                }
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "GitHub - wtfutil/wtf: The personal information dashboard for your terminal.\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://github.com/wtfutil/wtf"
+                }
+            ]
+        },
+        {
+            "id": 714,
+            "type": "message",
+            "date": "2019-09-04T22:53:10",
+            "date_unixtime": "1567630390",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Mateus Carmo M de F Barbosa / intro_x86-64 · GitLab\n",
+                {
+                    "type": "link",
+                    "text": "https://gitlab.com/mcmfb/intro_x86-64"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Mateus Carmo M de F Barbosa / intro_x86-64 · GitLab\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://gitlab.com/mcmfb/intro_x86-64"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": 715,
+            "type": "message",
+            "date": "2019-09-05T22:38:32",
+            "date_unixtime": "1567715912",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Industrializing Machine learning pipelines\n",
+                {
+                    "type": "link",
+                    "text": "https://fr.slideshare.net/GermainTanguy/industrializing-machine-learning-pipelines"
+                }
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Industrializing Machine learning pipelines\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://fr.slideshare.net/GermainTanguy/industrializing-machine-learning-pipelines"
+                }
+            ]
+        },
+        {
+            "id": 733,
+            "type": "message",
+            "date": "2019-09-12T17:57:43",
+            "date_unixtime": "1568303863",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "A lighter V8 · V8\n",
+                {
+                    "type": "link",
+                    "text": "https://v8.dev/blog/v8-lite"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "A lighter V8 · V8\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://v8.dev/blog/v8-lite"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": 734,
+            "type": "message",
+            "date": "2019-09-12T21:13:25",
+            "date_unixtime": "1568315605",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "What is Supervised Learning? A Mathematical Perspective – Dorian Brown – Finding signal and escaping the noise\n",
+                {
+                    "type": "link",
+                    "text": "https://dorianbrown.dev/what-is-supervised-learning/"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "What is Supervised Learning? A Mathematical Perspective – Dorian Brown – Finding signal and escaping the noise\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://dorianbrown.dev/what-is-supervised-learning/"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": 735,
+            "type": "message",
+            "date": "2019-09-14T22:00:32",
+            "date_unixtime": "1568491232",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Brett Scott: \"Los bancos están creando una idea romántica de los pagos electrónicos para conseguir más poder\"\n",
+                {
+                    "type": "link",
+                    "text": "https://www.eldiario.es/economia/bancos-creando-romantica-electronicos-conseguir_0_941755932.html"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Brett Scott: \"Los bancos están creando una idea romántica de los pagos electrónicos para conseguir más poder\"\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://www.eldiario.es/economia/bancos-creando-romantica-electronicos-conseguir_0_941755932.html"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": 736,
+            "type": "message",
+            "date": "2019-09-15T09:21:06",
+            "date_unixtime": "1568532066",
+            "from": "Oscar",
+            "from_id": "user743932742",
+            "text": [
+                "Cómo trabaja un CPU\n",
+                {
+                    "type": "link",
+                    "text": "https://www.meneame.net/story/como-trabaja-un-cpu"
+                },
+                ""
+            ],
+            "text_entities": [
+                {
+                    "type": "plain",
+                    "text": "Cómo trabaja un CPU\n"
+                },
+                {
+                    "type": "link",
+                    "text": "https://www.meneame.net/story/como-trabaja-un-cpu"
+                },
+                {
+                    "type": "plain",
+                    "text": ""
+                }
+            ]
+        }
+    ]
+}
